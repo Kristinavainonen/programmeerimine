@@ -1,4 +1,4 @@
-
+#Kontrollibparooliõigsust#
 print("Sisesta PIN-kood:")
 sisestatud_pin = input()
 if sisestatud_pin == "6574":
